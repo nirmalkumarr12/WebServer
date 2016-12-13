@@ -1,0 +1,5 @@
+Your session has timed out. To recover your application, you will need to enter the following information:
+Application ID: AA005XSG1G
+First 5 letters of applicant’s surname
+Applicant’s year of birth
+Answer to the security question (selected when the application was first created)
